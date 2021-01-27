@@ -1,0 +1,56 @@
+        /* css for login page*/
+	  
+body{
+	background-color:#236666;
+	}
+	
+	
+	
+fieldset{   /*fieldset style*/
+		
+		height:500px;
+		border-color:black;
+		border-style:dashed;
+		border-radius:10px;
+		width:550px;
+		margin-left:400px;
+		margin-top:50px;
+		margin-bottom:50px;
+		
+	}
+
+legend{
+	
+	text-align:center;
+}
+	
+table  /* simple style for table*/
+{
+
+  
+
+  font-size:20px;
+ 
+  height:300px;
+  
+  justify-content:center;
+  
+  display: flex;
+ 
+  align-item: center;
+
+
+  position:absolute;
+
+  top:0;
+  
+  left:0;
+  
+  right:0;
+  
+  bottom:0;
+  
+  margin: auto;
+
+}
+
